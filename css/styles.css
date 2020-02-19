@@ -22,7 +22,7 @@ header h2 {
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right,#5637DD, #3046C5, #60106B);
     color: white;
     
 }
@@ -33,7 +33,7 @@ header h2 {
     min-height: 200px;
 }
 .navbar {
-    background-color: #901CAD;
+    background-color: 901CAD;
 }
 .mt-4 {
     margin: 4;
@@ -42,4 +42,9 @@ header h2 {
     border: 1px solid #DDD;
     border-top: none;
     padding: 10px;
+}
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
 }
